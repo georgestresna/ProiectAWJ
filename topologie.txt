@@ -1,0 +1,7 @@
+com.example.proiect
+    ├── controller
+    ├── service
+    ├── service.impl
+    ├── repository
+    ├── model
+    └── dto   (opțional)
